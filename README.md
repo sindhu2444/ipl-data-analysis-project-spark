@@ -9,7 +9,7 @@ In this project, you will execute an End-To-End Data Engineering Project on IPL 
  ## Technology Used
 - Programming Language - Python
 - Amazon Web Service (AWS)
-1. S3 (Simple Storage Service)
+      S3 (Simple Storage Service)
 - Apache Spark
 - Databricks
 - SQL
